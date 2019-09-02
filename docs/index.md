@@ -1,18 +1,19 @@
 ---
 layout: default
-published: true
 ---
 # Welcome to Starbuck's Lair.
-## Before you enjoy the lair, we ask that you review our rules that you must follow while here.
+### Before you enjoy the lair, we ask that you review our rules that you must follow while here.
+
+* * *
 
 >Starbuck's Lair is a privately owned and adult orientated BDSM Dungeon built primarily for Gay Men.
 >You have to be age verified to access it, for good reason.
 >You will find many things like nakedness, forced or otherwise, sexual and BDSM oriented content.
 >You will also find medieval roleplay, parties, and other events.
 
+* * *
 
-
-### And a nested list:
+### Our rules:
 
 1. Absolutely NO Child Avatars or Age-play Allowed!
   -Those with questionable avatars will be warned to adjust them, if they do not do so when asked they may be banned.
@@ -33,22 +34,22 @@ published: true
   - If it comes to the point where you need help getting someone to respect a No, please ask for assistance.
 1. Clean Up your Mess
   - Please pick up your items and Stop or Reset the devices after you have finished using them.
-    - This keeps down lag and keeps it a friendly environment.
+  - This keeps down lag and keeps it a friendly environment.
 1. Return the Keys
   - If you take the keys to someone else's items, you are expected to return them after the roleplay is complete.
-    - This also applies to leaving others locked on devices, ask them in IM if it's okay before you do it.
+  - This also applies to leaving others locked on devices, ask them in IM if it's okay before you do it.
   - If you do not, you will receive one warning before we take action.
 1. Dress Code
-  - Slaves
-    - Slaves should wear only the Relay, Cuffs, Collar, and any Restraints, Toys, or other items required by their Masters.
-    - They may also wear silks unless ordered to remove them.
-  - Subs
-    - Subs are allowed to wear clothing until they are commanded to remove or replace them.
-  - Doms
-    - Doms and Free Men can wear anything they like, within reason.
+  - Slaves should wear only the Relay, Cuffs, Collar, and any Restraints, Toys, or other items required by their Masters. They may also wear silks unless ordered to remove them.
+  - Subs are allowed to wear clothing until they are commanded to remove or replace them.
+  - Doms and Free Men can wear anything they like, within reason.
+
+* * *
 
 ### The lair is fully RLV enabled.
 If you wish to use these features, ensure you are using a RLV enabled viewer (Not the official Second Life viewer) and make sure you have a relay on. You can wear other RLV enabled items and you can also set up your RLV folder.
+
+* * *
 
 ### Have a suggestion?
 We are always looking for new and interesting items and equipment, so feel free to drop a notecard in the suggestion box in the lounge.
